@@ -1,0 +1,41 @@
+.App{
+    background-color: #1cc3e5;
+    border: solid 2px #101111;
+    margin: 3%;
+}
+.input{
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 2px #101111;
+    border-radius: 5px;
+    font-size: 1.5em;
+}
+.addbtn{
+    padding: 10px;
+    margin: 10px;
+    border: solid 2px #101111;
+    border-radius: 5px;
+    font-size: 1.5em;
+    background-color: #101111;
+    color: #1cc3e5;
+}
+.heading{
+    font-size: 2em;
+    color: #101111;
+    margin: 10px;
+}
+.list{
+    font-size: 1.5em;
+    color: #101111;
+    margin: 10px;
+}
+.dltbtn{
+    padding: 5px;
+    margin: 5px;
+    border: solid 2px #101111;
+    border-radius: 5px;
+    font-size: 1em;
+    background-color: #101111;
+    color: #1cc3e5;
+}
